@@ -2,11 +2,11 @@
   <img src="banner.png" alt="UI Searcher Banner" width="100%">
 </p>
 
-<h1 align="center">UI Searcher — Chrome Extension</h1>
-<p align="center">A clean and powerful tool for capturing UI elements, blocks and full pages</p>
+<h1 align="center">UI Searcher — расширение для Chrome</h1>
+<p align="center">Чистый, удобный и мощный инструмент для захвата UI-элементов, блоков и полной страницы</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-12.3.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/версия-12.3.0-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/manifest-v3-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/chrome-extension-green?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/yourname/yourrepo?style=for-the-badge" />
@@ -14,25 +14,26 @@
 
 ---
 
-## ✨ Features
+## ✨ Возможности
 
-### 🔹 Smart Element Screenshot  
-Automatically detects the real clickable or visual block, highlights it and saves a clean PNG.
+### 🔹 Умный скриншот элемента  
+Автоматически определяет настоящий визуальный или кликабельный элемент, подсвечивает его и сохраняет чистый PNG.
 
-### 🔹 Block / Section Screenshot  
-UI Searcher can detect structured UI sections (cards, containers, grids).
+### 🔹 Скриншот блока / секции  
+UI Searcher может определить структурные блоки: карточки, контейнеры, гриды, текстовые секции.
 
-### 🔹 Full Page Screenshot  
-Stitches the entire page without fixed/sticky elements.  
-No visual glitches & no scroll bars.
+### 🔹 Полный скриншот страницы  
+Склеивает страницу из нескольких кадров.  
+Скрывает `fixed`/`sticky` элементы, чтобы не появлялись артефакты.  
+Без полос прокрутки, без искажений.
 
-### 🔹 DPI-aware Precision  
-Uses the device pixel ratio for pixel-perfect capture.
+### 🔹 Точная работа с DPI  
+Использует Device Pixel Ratio для пиксель-перфект обрезки.
 
-### 🔹 Clean and minimalist popup UI  
-Built in Apple-style minimal design (Tailwind-like aesthetic).
+### 🔹 Чистый и минималистичный интерфейс  
+Всплывающее окно выполнено в стиле Apple / Tailwind: аккуратно, просто и понятно.
 
 ---
 
-## 🧩 How It Works (Architecture)
+## 🧩 Как это работает (Архитектура)
 
