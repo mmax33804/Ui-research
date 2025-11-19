@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="UI Searcher Banner" width="100%">
+  <img src="banner.png.png" alt="UI Searcher Banner" width="100%">
 </p>
 
 <h1 align="center">UI Searcher — расширение для Chrome</h1>
@@ -71,6 +71,10 @@ UI Searcher может определить структурные блоки: �
 Готово — расширение установлено.
 
 ---
+
+<p align="center">
+  <img src="ui_searcher_demo.gif" width="80%">
+</p>
 
 ## 🖥 Использование
 
